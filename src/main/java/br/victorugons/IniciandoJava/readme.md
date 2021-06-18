@@ -58,7 +58,7 @@ Uma linha com formato XXX.YYY.ZZZ-DD, onde XXX, YYY, ZZZ, DD são números intei
 
 Quatro linhas, cada uma de um dos grupos númericos, XXX, YYY, ZZZ e DD.
 
-Código: [AtividadeDois.java](https://github.com/victorugons/bootcampCodeAnywhere-DIO/blob/main/src/main/java/br/victorugons/IniciandoJava/AtividadeTres.java)
+Código: [AtividadeTres.java](https://github.com/victorugons/bootcampCodeAnywhere-DIO/blob/main/src/main/java/br/victorugons/IniciandoJava/AtividadeTres.java)
 
 
 
